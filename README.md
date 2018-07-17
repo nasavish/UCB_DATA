@@ -1,2 +1,2 @@
 # UCB_DATA
-assignments for UCBerkeley Extension Data Bootcamp
+lessons and assignments for UCBerkeley Extension Data Bootcamp
